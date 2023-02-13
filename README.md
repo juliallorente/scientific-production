@@ -1,2 +1,2 @@
 # scientific-production
-Produção do artigo: Estudo de metadados: A padronização de Repositórios Voltados ao Novo Ensino médio
+Produção do artigo: Repositórios digitais para o Novo Ensino Médio: uma análise preliminar das necessidades e possibilidades
